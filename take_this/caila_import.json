@@ -1,7 +1,7 @@
 {
   "project" : {
-    "id" : "kod_s_kartochkami-106681-wwP",
-    "name" : "kod_s_kartochkami-106681-wwP",
+    "id" : "shablon_zvuki",
+    "name" : "shablon_zvuki",
     "folder" : "/jaicp"
   },
   "settings" : {
@@ -9,10 +9,10 @@
     "spellingCorrection" : false,
     "classificationAlgorithm" : "sts",
     "timezone" : "UTC",
-    "extendedSettings" : {
-      "tokenizerEngine" : "mystem"
-    },
-    "shared" : false
+    "shared" : false,
+    "extendedSettings": {
+      "tokenizerEngine": "mystem"
+    }
   },
   "intents" : [ ],
   "entities" : [ ],

@@ -1,4 +1,4 @@
-name: cards-template
+name: SoundsTemplate
 
 entryPoint:
   - main.sc
